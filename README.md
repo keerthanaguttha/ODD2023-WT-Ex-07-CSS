@@ -1,6 +1,8 @@
-
+EX-07 CSS
+```
 Name: Guttha Keerthana
 Ref.no: 23012783
+```
 
 
 # Ex-7(i):
@@ -51,7 +53,7 @@ css.html:
 
 
 1.css :
-
+```
 html {
     font-size: 50px;
     color: #333;
@@ -86,7 +88,7 @@ a {
 footer {
     font-size: x-large;
 }
-
+```
 
 # Output(i):
 
@@ -127,7 +129,7 @@ run the program with prefered screen width
 
 # CODE :
 2.css :
-
+```
 
 html {
     font-size: 50px;
@@ -148,7 +150,7 @@ a {
             }
         
         }
-
+```
 # OUTPUT :
 
 default:
@@ -186,7 +188,7 @@ Run the html program
 # CODE :
 3.css :
 
-
+```
 @media (orientation: potrait) {
     html {
         background-color: pink;
@@ -209,7 +211,7 @@ Run the html program
     }
 
 }
-
+```
 # OUTPUT :
 
 landscape:
@@ -242,7 +244,7 @@ Run the html program
 
 # CODE :
 4.css :
-
+```
 
 html {
     font-size: 20px;
@@ -284,7 +286,7 @@ a {
            
         
         }
-
+```
 
 # OUTPUT :
 
@@ -322,7 +324,7 @@ run the html program
 
 # CODE :
 5.css :
-
+```
 
 html {
     font-size: 50px;
@@ -347,7 +349,7 @@ a {
             }
         
         }
-
+```
 # OUTPUT :
 
 default:
@@ -384,7 +386,7 @@ run the html program
 # CODE :
 6.css :
 
-
+```
 html {
     font-size: 50px;
     color: #333;
@@ -407,7 +409,7 @@ a {
  }
 }
 
-
+```
 # OUTPUT :
 
 lightmode:
